@@ -1,0 +1,2 @@
+Please use the VOC2007 format for data set conversion. We only upload the ZhurongRock number sample data, and the subsequent complete code and data will be uploaded.
+The NaTaCam datasets used in this work are processed and produced by Ground Research and Application System (GRAS) of China’s Lunar and Planetary Exploration Program, it can be applied and downloaded at http://moon.bao.ac.cn/.
