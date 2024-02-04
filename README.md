@@ -3,18 +3,18 @@ EDR-TransUnet: Integrating Enhanced Dual Relation-Attention With Transformer U-N
 # EDR-TransUnet
 This is a network for Martian rock segmentation.
 
-1.Prepare pre-trained ViT models
+1. Prepare pre-trained ViT models
 
 Get models and training parameters.
 
-2.Prepare data
+2. Prepare data
 
 Please experiment with the data in the dataset, using ZhurongRock as an example.
 
-3.Environment
+3. Environment
 
 Please prepare an environment with python=3.7(conda create -n envir python=3.7.12), and then use the command "pip install -r requirements.txt" for the dependencies.
 
-4.Train/Test
+4. Train/Test
 
 Run the train script on ZhurongRock dataset. 
