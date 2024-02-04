@@ -1,8 +1,10 @@
 EDR-TransUnet: Integrating Enhanced Dual Relation-Attention With Transformer U-Net For Multiscale Rock Segmentation on Mars
 # EDR-TransUnet
 This is a network for Martian rock segmentation.
+
 1.Prepare pre-trained ViT models
 Get models and training parameters in this link: R50-ViT-B_32.
+
 2.Prepare data
 Please experiment with the data in the dataset, using ZhurongRock as an example.
 
